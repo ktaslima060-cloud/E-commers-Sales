@@ -16,6 +16,14 @@ This project provides end-to-end insights into e-commerce operations by combinin
 
 ---
 
+## 📸 Dashboard Previews
+
+![Dashboard Overview 1](Screenshot%202026-09-24%20141300.png)
+![Dashboard Overview 2](Screenshot%202026-09-24%20141320.png)
+![Dashboard Overview 3](Screenshot%202026-09-24%20141340.png)
+
+---
+
 ## 📁 Repository Structure
 
 ```text
